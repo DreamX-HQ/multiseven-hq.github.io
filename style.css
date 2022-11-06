@@ -135,4 +135,6 @@ body{
     );
     background-blend-mode: normal;
   }
-  
+  a{
+    color: black;
+  }
